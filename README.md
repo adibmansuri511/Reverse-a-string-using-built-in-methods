@@ -1,2 +1,3 @@
-# reverse-a-string-using-built-in-methods
- Practice Example
+# Reverse-a-string-using-built-in-methods
+JavaScript Practice Example.
+
